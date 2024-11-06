@@ -1,0 +1,7 @@
+C:\Users\nazar\Desktop\навчання\другий курс\перший семестр 2 курс\лабораторні ооп\лаба3\laba3_khomytska_task2\laba3_khomytska_task2\obj\Debug\laba3_khomytska_task2.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\навчання\другий курс\перший семестр 2 курс\лабораторні ооп\лаба3\laba3_khomytska_task2\laba3_khomytska_task2\obj\Debug\laba3_khomytska_task2.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\навчання\другий курс\перший семестр 2 курс\лабораторні ооп\лаба3\laba3_khomytska_task2\laba3_khomytska_task2\bin\Debug\laba3_khomytska_task2.exe.config
+C:\Users\nazar\Desktop\навчання\другий курс\перший семестр 2 курс\лабораторні ооп\лаба3\laba3_khomytska_task2\laba3_khomytska_task2\bin\Debug\laba3_khomytska_task2.exe
+C:\Users\nazar\Desktop\навчання\другий курс\перший семестр 2 курс\лабораторні ооп\лаба3\laba3_khomytska_task2\laba3_khomytska_task2\bin\Debug\laba3_khomytska_task2.pdb
+C:\Users\nazar\Desktop\навчання\другий курс\перший семестр 2 курс\лабораторні ооп\лаба3\laba3_khomytska_task2\laba3_khomytska_task2\obj\Debug\laba3_khomytska_task2.exe
+C:\Users\nazar\Desktop\навчання\другий курс\перший семестр 2 курс\лабораторні ооп\лаба3\laba3_khomytska_task2\laba3_khomytska_task2\obj\Debug\laba3_khomytska_task2.pdb

@@ -1,0 +1,7 @@
+C:\Users\nazar\Desktop\laba3_khomytska\laba3_khomytska\bin\Debug\laba3_khomytska.exe.config
+C:\Users\nazar\Desktop\laba3_khomytska\laba3_khomytska\bin\Debug\laba3_khomytska.exe
+C:\Users\nazar\Desktop\laba3_khomytska\laba3_khomytska\bin\Debug\laba3_khomytska.pdb
+C:\Users\nazar\Desktop\laba3_khomytska\laba3_khomytska\obj\Debug\laba3_khomytska.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\laba3_khomytska\laba3_khomytska\obj\Debug\laba3_khomytska.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\laba3_khomytska\laba3_khomytska\obj\Debug\laba3_khomytska.exe
+C:\Users\nazar\Desktop\laba3_khomytska\laba3_khomytska\obj\Debug\laba3_khomytska.pdb
